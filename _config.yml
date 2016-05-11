@@ -1,0 +1,28 @@
+name: TWERK/B2B
+favicon: null
+layout_spectrum: 0.4378579743206501
+typography_spectrum: 0.5083679016679525
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8840123594272882
+  lightness: 0.7082688314840198
+  saturation: 0.30102924117818475
+  rhythmicContrast: 0.6826504762284458
+purpose: []
