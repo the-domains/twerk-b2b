@@ -2,14 +2,23 @@
     <channel>
         <title><![CDATA[TWERK/B2B]]></title>
         <description><![CDATA[TWERK/B2B]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/twerk-b2b/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 08:14:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 May 2016 08:18:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/twerk-b2b/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ons sociaal project]]></title>
+            <description><![CDATA[<p>TWERK is een kleine
+sociale werkplaats voor normaal begaafde personen met een
+autismespectrumstoornis.</p>]]></description>
+            <link>https://thegrid.ai/twerk-b2b/ons-sociaal-project/index.html</link>
+            <guid isPermaLink="false">dabe2690-c180-4059-955e-c770ea9a2a13</guid>
+            <pubDate>Wed, 11 May 2016 08:18:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5725a780-a572-45d6-8ae6-ee36da87556d.jpg">]]></description>
-            <link>undefineda870cb2d-9754-40a7-a80a-ef467686e745/index.html</link>
+            <link>https://thegrid.ai/twerk-b2b/a870cb2d-9754-40a7-a80a-ef467686e745/index.html</link>
             <guid isPermaLink="false">a870cb2d-9754-40a7-a80a-ef467686e745</guid>
             <pubDate>Wed, 11 May 2016 08:14:19 GMT</pubDate>
         </item>
