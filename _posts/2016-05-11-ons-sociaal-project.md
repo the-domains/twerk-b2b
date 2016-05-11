@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-11T08:18:25.977Z'
-dateModified: '2016-05-11T08:16:46.105Z'
-title: ''
+description: TWERK is een kleine sociale werkplaats voor normaal begaafde personen met een autismespectrumstoornis.
+datePublished: '2016-05-11T08:27:02.916Z'
+dateModified: '2016-05-11T08:24:03.799Z'
+title: Ons sociaal project
 author: []
+sourcePath: _posts/2016-05-11-ons-sociaal-project.md
 authors: []
 publisher:
   name: null
@@ -16,14 +17,13 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-11-ons-sociaal-project.md
 url: ons-sociaal-project/index.html
 _type: Article
 
 ---
-TWERK is een kleine
-sociale werkplaats voor normaal begaafde personen met een
-autismespectrumstoornis.
+# Ons sociaal project
+
+TWERK is een kleine sociale werkplaats voor normaal begaafde personen met een autismespectrumstoornis.
 
 Hoewel deze mensen gemiddeld tot hoog begaafd zijn en in bepaalde zaken echt uitblinken, hebben ze meestal een gebrek aan organisatievermogen. Ze kunnen bijvoorbeeld heel moeilijk privégebeurtenissen scheiden van de werksituatie. Daarom biedt TWERK hen vanuit een holistische visie een aangepast, geïndividualiseerd en zeer volledig zorgaanbod. Volwaardig werk staat daarin centraal, aangevuld met persoonlijke begeleiding in alle aspecten van het dagelijks leven.
 
